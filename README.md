@@ -5,7 +5,7 @@ This repository demonstrates the implementation of the Model-View-Controller (MV
 
 ## Source and Learning Process
 
-This example is taken directly from the "Clean Code in JavaScript" book by James Padolsey, specifically from the Architectural Design Patterns module. This was studied as part of the Introduction to Software Engineering course by Professor Fatma Meawad in the Bachelor of Modern Computer Science at OPIT. 
+This example is taken directly from the "Clean Code in JavaScript" book by James Padolsey, specifically from the Architectural Design Patterns module. This was studied as part of the Introduction to Software Engineering course by [Professor Fatma Meawad](https://www.linkedin.com/in/fmeawad/) in the Bachelor of Modern Computer Science at OPIT. 
 
 To deepen my understanding, I used various Large Language Models (LLMs) to:
 - Break down the code step by step
@@ -76,7 +76,7 @@ This project helped me understand:
 
 ## Credits
 - Book: "Clean Code in JavaScript" by James Padolsey
-- Course: Introduction to Software Engineering by Professor Fatma Meawad, Bachelor of Modern Computer Science at OPIT
+- Course: Introduction to Software Engineering by [Professor Fatma Meawad](https://www.linkedin.com/in/fmeawad/), Bachelor of Modern Computer Science at OPIT
 - Learning assistance: Large Language Models
 
 This repository serves as documentation of my learning journey, combining academic coursework, textbook study, and AI-assisted deep code analysis to gain a comprehensive understanding of MVC patterns in JavaScript.
