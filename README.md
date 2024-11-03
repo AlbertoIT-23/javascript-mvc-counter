@@ -19,7 +19,7 @@ To deepen my understanding, I used various Large Language Models (LLMs) to:
 The project includes two implementations to demonstrate different approaches:
 
 ```plaintext
-counter-project/
+javascript-mvc-counter/
 ├── modular/                 # Modular version with separated concerns
 │   ├── controllers/
 │   │   └── numberController.js
@@ -56,8 +56,8 @@ The application demonstrates core MVC concepts:
 
 1. Clone the repository
 2. Use a live server to run either version:
-   - For modular version: `counter-project/modular/index.html`
-   - For single-file version: `counter-project/single-file/index.html`
+   - For modular version: `javascript-mvc-counter/modular/index.html`
+   - For single-file version: `javascript-mvc-counter/single-file/index.html`
 3. You should see a counter with + and - buttons
 
 ## Technologies Used
